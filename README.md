@@ -2,7 +2,9 @@ This is a small-scale project made for the Fall 2023 offering of SYSC 4810 at Ca
 
 To run the project, clone the repository to a folder.
 
-Go to the folder you've created and run this command in a terminal of your choice:
+Go to the folder you've created via a terminal of your choice.
+
+Run this command in the terminal:
 
 `$ python Problem4.py`
 
