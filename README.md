@@ -1,3 +1,5 @@
+# Description
+
 This is a small-scale project made for the Fall 2023 offering of SYSC 4810 at Carleton University. It covers the basics of password authentication through the use of SHA-512 encryption, and a basic password policy. 
 
 To run the project, clone the repository to a folder.
